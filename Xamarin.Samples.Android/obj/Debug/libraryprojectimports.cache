@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars></Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>D:\Data_10\XN\Xamarin_poc\Xamarin.Samples\Xamarin.Samples.Android\obj\Debug\__library_projects__\Cirrious.CrossCore.Droid\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>D:\Data_10\XN\Xamarin_poc\Xamarin.Samples\Xamarin.Samples.Android\obj\Debug\__library_projects__\Cirrious.MvvmCross.Binding.Droid\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>D:\Data_10\XN\Xamarin_poc\Xamarin.Samples\Xamarin.Samples.Android\obj\Debug\__library_projects__\Cirrious.MvvmCross.Droid\library_project_imports\res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>D:\Data_10\XN\Xamarin_poc\Xamarin.Samples\Xamarin.Samples.Android\obj\Debug\__library_projects__\Cirrious.CrossCore.Droid\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>D:\Data_10\XN\Xamarin_poc\Xamarin.Samples\Xamarin.Samples.Android\obj\Debug\__library_projects__\Cirrious.MvvmCross.Binding.Droid\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>D:\Data_10\XN\Xamarin_poc\Xamarin.Samples\Xamarin.Samples.Android\obj\Debug\__library_projects__\Cirrious.MvvmCross.Droid\library_project_imports\assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>D:\Data_10\XN\Xamarin_poc\Xamarin.Samples\Xamarin.Samples.Android\obj\Debug\__library_projects__\Cirrious.CrossCore.Droid.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>D:\Data_10\XN\Xamarin_poc\Xamarin.Samples\Xamarin.Samples.Android\obj\Debug\__library_projects__\Cirrious.MvvmCross.Binding.Droid.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>D:\Data_10\XN\Xamarin_poc\Xamarin.Samples\Xamarin.Samples.Android\obj\Debug\__library_projects__\Cirrious.MvvmCross.Droid.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>
